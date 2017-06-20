@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+	<item id="1">
+	<word>Allegro</word>
+	<def>When the music goes really fast</def>
+	</item>
+	<item id="2">
+		<word>Presto</word>
+		<def>When the music moves super fast</def>
+	</item>
+	<item id="3">
+		<word>Pitch</word>
+		<def>The high and low of a sound</def>
+	</item>
+	<item id="4">
+		<word>Piano</word>
+		<def>The instrument that has hammers inside</def>
+	</item>
+	<item id="5">
+		<word>Andante</word>
+		<def>To play at a moderately slow tempo</def>
+	</item>
+	<item id="6">
+		<word>Tutti</word>
+		<def>When all the instruments play together</def>
+	</item>
+	<item id="7">
+		<word>Solo</word>
+		<def>Take one of these and your bound to be heard</def>
+	</item>
+	<item id="8">
+		<word>Chant</word>
+		<def>Monks like to do this</def>
+	</item>
+	<item id="9">
+		<word>Marches</word>
+		<def>John Phillips Sousa was famous for composing these</def>
+	</item>
+	<item id="10">
+		<word>Cantatas</word>
+		<def>Bach wrote more than 200 of these</def>
+	</item>
+</dictionary>
+

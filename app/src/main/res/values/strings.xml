@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Music Box</string>
+    <string name="btn_play">Start Playing</string>
+    <string name="new_activity">New Activity</string>
+    <string name="start_game">Start Game</string>
+    <string name="music_professor">Music Professor</string>
+    <string name="hint">Touch START GAME to begin a round.</string>
+    <string name="professor_icon_large">Professor Icon Large</string>
+    <string name="game_over">Out of Time!</string>
+    <string name="set_timer">00:00</string>
+    <string name="btn_submitanswer">Submit</string>
+    <string name="correct_answer">Good Job!</string>
+    <string name="incorrect_answer">Try another</string>
+    <string name="btn_reset_chars">Reset</string>
+    <string name="round_number">Round:</string>
+</resources>
